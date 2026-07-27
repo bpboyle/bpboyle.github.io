@@ -73,5 +73,11 @@
   },
   "research/articles/stier-etal/index.qmd": {
     "index.html": "ef53a39f"
+  },
+  "tutorials/index.qmd": {
+    "index.html": "1d6dcfa4"
+  },
+  "tutorials/test-01/index.qmd": {
+    "index.html": "25b71b4b"
   }
 }

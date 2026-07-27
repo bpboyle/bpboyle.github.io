@@ -1,11 +1,11 @@
 {
   "listingMap": {
-    "blogs\\index.qmd": [
-      "blogposts"
-    ],
     "research\\index.qmd": [
       "articles/*/index.qmd",
       "working-papers/*/index.qmd"
+    ],
+    "tutorials\\index.qmd": [
+      "*/index.qmd"
     ]
   }
 }

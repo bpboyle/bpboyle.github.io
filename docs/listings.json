@@ -11,9 +11,9 @@
     ]
   },
   {
-    "listing": "/blogs/index.html",
+    "listing": "/tutorials/index.html",
     "items": [
-      "/blogs/blogposts/blog1.html"
+      "/tutorials/test-01/index.html"
     ]
   }
 ]

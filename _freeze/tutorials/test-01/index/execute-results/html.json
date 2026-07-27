@@ -1,0 +1,15 @@
+{
+  "hash": "e7946f2be76f87f699e0daf47767c4f9",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Test 01\"\ndescription: \"Post description\"\nauthor: \"Brian Boyle\"\ndate: 2026-07-27\ncategories:\n  - news\n  - code\n  - analysis\n---\n\n## Hello\n\nSome text.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "tutorials/test-01/index.html",
+    "href": "tutorials/test-01/index.html",
+    "title": "Test 01",
+    "section": "",
+    "text": "Some text.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "tutorials/test-01/index.html#hello",
+    "href": "tutorials/test-01/index.html#hello",
+    "title": "Test 01",
+    "section": "",
+    "text": "Some text.\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "teaching/index.html",
     "href": "teaching/index.html",
     "title": "Brian Paul Boyle",
@@ -98,25 +112,11 @@
     "text": "BBC Question Time Tweets on days episodes aired \n    \n    \n    \n    \n    \n    \n    \n\n    \n    Language breakdown of 2019 MEP candidate Tweets\n   \n      \n     \n     \n     \n    \n    \n\n    \n    Brexit views for BBCQT guest appearances (2015-19)\n  \n    \n    \n    \n\n\n\n\n\n\n    \n      Gender balance of BBCQT appearances (1979-2019)\n    \n    \n    \n  \n\n     \n     \n    \n    Brexit vote choice for BBCQT appearances (2015-19)"
   },
   {
-    "objectID": "blogs/index.html",
-    "href": "blogs/index.html",
-    "title": "Blogs",
-    "section": "",
-    "text": "Blog 1\n\n\nPost description\n\n\n\n\n\nAug 8, 2021\n\n\nBrian Boyle\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "blogs/blogposts/blog1.html",
-    "href": "blogs/blogposts/blog1.html",
-    "title": "Blog 1",
-    "section": "",
-    "text": "This is the first blog post."
   },
   {
     "objectID": "cv/index.html",
@@ -208,5 +208,12 @@
     "title": "EU integration through a Greener lens: Building consensus around European integration?",
     "section": "",
     "text": "EU environmental policy is one of the success stories of European integration. In this paper, we argue that popular support for EU-cantered environmental protection efforts has helped underpin the case for the legitimacy of this transnational body. By analysing how European political parties frame the relationship between European integration and Green politics during the European Parliament (EP) elections, we aim to show the degree to which the Green Agenda can be used to (re)build consensus around European integration. We make use of Twitter data from all MEP candidates during the 2019 EP election campaign. Combining human coding and machine learning techniques, we identify the issue(s) in a given tweet, as well as the degree to which it expresses support for EU integration. We contrast the level of support for the EU in relation to environmental issues (embedded), with more general expressions of support for the EU among candidates. We report promising evidence to suggest that dominant mainstream parties and Green parties are generally promoting this embedded framing and that this framing has been rewarded with members of the public being more likely to re-tweet pro-integration messaging when linked to the environment."
+  },
+  {
+    "objectID": "tutorials/index.html",
+    "href": "tutorials/index.html",
+    "title": "R Tutorials",
+    "section": "",
+    "text": "Test 01\n\n\nPost description\n\n\n\n\n\nJul 27, 2026\n\n\n\n\n\nNo matching items"
   }
 ]

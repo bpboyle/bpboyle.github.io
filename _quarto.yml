@@ -20,6 +20,9 @@ website:
       - text: "Data Visualisation"
         href: datavis/index.qmd
 
+execute:
+  freeze: auto
+
 format:
   html:
     theme: 
