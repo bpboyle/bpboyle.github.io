@@ -1,14 +1,18 @@
 ---
-title: "Blog 1"
+title: "Test 01"
 description: "Post description"
 author: "Brian Boyle"
-date: "08/08/2021"
+date: 2026-07-27
 categories:
   - news
   - code
   - analysis
 ---
 
-This is the first blog post.
+## Hello
 
+Some text.
 
+```{r}
+1 + 1
+```

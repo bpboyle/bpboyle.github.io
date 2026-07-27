@@ -1,0 +1,8 @@
+---
+title: "R Tutorials"
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title, description]
+---
