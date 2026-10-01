@@ -79,5 +79,8 @@
   },
   "tutorials/test-01/index.qmd": {
     "index.html": "25b71b4b"
+  },
+  "resources/index.qmd": {
+    "index.html": "c5c7bbd4"
   }
 }

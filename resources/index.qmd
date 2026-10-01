@@ -1,0 +1,27 @@
+---
+title: Books and Resources
+---
+
+
+
+
+
+
+##  [Principles of Data Science](https://brianboyle.phd/principles-of-data-science/)
+Class book for Master's module on Data Science using R.
+
+
+## [Student Dissertation and Research Projects](https://brianboyle.phd/diss-projects/)
+Resources for undergraduate and postgraduate dissertations and research projects.
+
+
+<br> <br>
+
+
+# Shiny Apps
+
+## [Class Grade Inspection and Moderation Tool](https://019ddeff-45c5-c4db-3382-5111e29239a2.share.connect.posit.cloud/)
+Simple tool to upload anonymised grades to compare marking distributions across multiple graders.
+
+## [Random Sampling Simulator](https://brianboyle.phd/teaching_apps/)
+Interative tool to simulate random sampling different groups in a population.
